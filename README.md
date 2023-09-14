@@ -94,3 +94,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 Please replace any placeholders, such as URLs, with your actual project information.
+
+
+
+
+## In Action:
+![Screenshot (89)](https://github.com/swagatabanerjee1904/diamondpriceprediction/assets/111900330/ceb1cd96-73ac-40db-b337-5a94ac0ec714)
