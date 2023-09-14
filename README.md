@@ -76,3 +76,19 @@ git clone https://github.com/swagatabanerjee1904/DiamondPricePrediction
 
 │					
 └──setup.py                               - project's metadata and configuration details
+
+
+
+
+
+
+
+
+
+
+## Contributions:
+Any kind of enhancement or contribution is welcomed.
+
+
+## Contact
+If you have any questions, feedback, or suggestions, feel free to reach out to us at banerjeeswagata19@gmail.com.
