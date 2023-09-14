@@ -99,4 +99,7 @@ Please replace any placeholders, such as URLs, with your actual project informat
 
 
 ## In Action:
-![Screenshot (89)](https://github.com/swagatabanerjee1904/diamondpriceprediction/assets/111900330/ceb1cd96-73ac-40db-b337-5a94ac0ec714)
+![Screenshot (89)](https://github.com/swagatabanerjee1904/diamondpriceprediction/assets/111900330/c16ec33f-6c18-4f88-bce4-cd180ee02762)
+
+Server link:
+http://127.0.0.1:5000/
