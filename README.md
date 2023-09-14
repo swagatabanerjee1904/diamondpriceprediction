@@ -30,7 +30,9 @@ Notebook
 Used dataset is present on kaggle
 
 Use this notebook to access : Kaggle Notebook
-LinkedIn Post of Notebook (you can download notebook pdf) : LinkedIn Post
+
+
+
 In Details
 ├──  artifacts                    - here's the model pickle and dataset files.
 │    └── preprocessor.pkl  
